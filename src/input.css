@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  img {
+    @apply pointer-events-none;
+  }
+
+  #new div:last-child {
+    @apply pb-2 border-none;
+  }
+}
