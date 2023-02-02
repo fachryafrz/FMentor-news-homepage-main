@@ -672,6 +672,11 @@ img {
   background-color: hsl(240 100% 5% / var(--tw-bg-opacity));
 }
 
+.bg-neutral-Off-white {
+  --tw-bg-opacity: 1;
+  background-color: hsl(36 100% 99% / var(--tw-bg-opacity));
+}
+
 .p-4 {
   padding: 1rem;
 }
